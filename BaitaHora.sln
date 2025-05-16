@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaitaHora.Core", "BaitaHora.Core\BaitaHora.Core.csproj", "{5697A525-F2D1-46B8-A9E0-5C62DD47A171}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaitaHora.Application", "BaitaHora.Application\BaitaHora.Application.csproj", "{D1E92871-DB80-4959-B4A6-594EA2A09B60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaitaHora.Infrastructure", "BaitaHora.Infrastructure\BaitaHora.Infrastructure.csproj", "{82D9D095-08B6-4EAB-A8C4-AC7F83E4BC18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaitaHora.WebApi", "BaitaHora.WebApi\BaitaHora.WebApi.csproj", "{0985D406-4DDA-4326-B4C1-BA2B342AF266}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaitaHora.Domain", "BaitaHora.Domain\BaitaHora.Domain.csproj", "{0405323F-5165-4213-AFDD-ED3B81BB8850}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaitaHora.Api", "BaitaHora.Api\BaitaHora.Api.csproj", "{1F9203BA-59F7-462B-9441-345A9F4C7E10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5697A525-F2D1-46B8-A9E0-5C62DD47A171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5697A525-F2D1-46B8-A9E0-5C62DD47A171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5697A525-F2D1-46B8-A9E0-5C62DD47A171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5697A525-F2D1-46B8-A9E0-5C62DD47A171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1E92871-DB80-4959-B4A6-594EA2A09B60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E92871-DB80-4959-B4A6-594EA2A09B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E92871-DB80-4959-B4A6-594EA2A09B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E92871-DB80-4959-B4A6-594EA2A09B60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82D9D095-08B6-4EAB-A8C4-AC7F83E4BC18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82D9D095-08B6-4EAB-A8C4-AC7F83E4BC18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82D9D095-08B6-4EAB-A8C4-AC7F83E4BC18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82D9D095-08B6-4EAB-A8C4-AC7F83E4BC18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0985D406-4DDA-4326-B4C1-BA2B342AF266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0985D406-4DDA-4326-B4C1-BA2B342AF266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0985D406-4DDA-4326-B4C1-BA2B342AF266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0985D406-4DDA-4326-B4C1-BA2B342AF266}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0405323F-5165-4213-AFDD-ED3B81BB8850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0405323F-5165-4213-AFDD-ED3B81BB8850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0405323F-5165-4213-AFDD-ED3B81BB8850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0405323F-5165-4213-AFDD-ED3B81BB8850}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F9203BA-59F7-462B-9441-345A9F4C7E10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F9203BA-59F7-462B-9441-345A9F4C7E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F9203BA-59F7-462B-9441-345A9F4C7E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F9203BA-59F7-462B-9441-345A9F4C7E10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
